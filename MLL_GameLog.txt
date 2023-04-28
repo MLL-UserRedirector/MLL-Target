@@ -1,3 +1,4 @@
+[28/04/23] (INFO) 1.0.0.8 : autofile
 [24/04/23] (INFO) 1.0.0.4
 [23/04/23] (INFO) Redirected to Github
 [23/04/23] (NEWS) Wassup boys?
