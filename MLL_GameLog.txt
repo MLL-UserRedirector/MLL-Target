@@ -1,8 +1,8 @@
+[09/05/23] (INFO) ST:A:09 (debug) online
 [09/05/23] (INFO) ST:A:07 (debug) online
 [29/04/23] (INFO) 1.0.0.8
 [28/04/23] (INFO) 1.0.0.7 : autofile
 [24/04/23] (INFO) 1.0.0.4
-[23/04/23] (INFO) Redirected to Github
-[23/04/23] (NEWS) Wassup boys?
+[23/04/23] (INFO) Added Github redirectors
 [23/04/23] (NEWS) This is a test from the log file
 [23/04/23] (INFO) Initialized Launcher Log File
