@@ -1,3 +1,5 @@
+[17/06/23] (INFO) ST:B:10b (debug) online
+[17/06/23] (NEWS) The game will now run with DX11 by default instead of DX12
 [15/06/23] (INFO) ST:B:9 (debug) online
 [14/06/23] (INFO) ST:B:8c (debug) online
 [26/05/23] (INFO) ST:A:15 (debug) online
