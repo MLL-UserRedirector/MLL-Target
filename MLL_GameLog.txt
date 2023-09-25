@@ -1,3 +1,4 @@
+[26/09/23] (INFO) ST:B:20e-2 (debug) online
 [27/06/23] (INFO) ST:B:20e (debug) online
 [17/06/23] (INFO) ST:B:10b (debug) online
 [17/06/23] (NEWS) The game will now run with DX11 by default
